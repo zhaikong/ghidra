@@ -90,3 +90,5 @@ core.*
 __pycache__
 
 gradle.lockfile
+config.bat
+node_modules
