@@ -13,6 +13,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ##
+import internal.net
+import internal.clients
+import internal.http_session
+import internal.transport
+import internal.session
 import argparse
 import code
 import logging
